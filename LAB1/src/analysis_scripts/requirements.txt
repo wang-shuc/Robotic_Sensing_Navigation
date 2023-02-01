@@ -1,0 +1,4 @@
+To run this script, the bagfile recorded from rosbag is converted into yaml format.
+The script will read through the yaml file.
+Make sure you have the right file path for yaml file (I put yaml files in the same directory should have no problem)
+If you want to see the different plot, please change the file name and variables, because the scripts will only display one plot, and I made screenshots for every plot.
